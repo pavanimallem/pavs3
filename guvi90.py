@@ -1,4 +1,6 @@
 str=raw_input()
+x=[]
 for i in str:
 	if(i.isdigit()):
-		print i,
+		x.append()
+print "".join(x)
